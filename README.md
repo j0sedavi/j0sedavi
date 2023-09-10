@@ -5,7 +5,7 @@
 <br />
 
 ## About me
-- 👦 I'm 15.
+- 👦 "I am 15 years old.
 - 💻 Full-Stack Web Developer.
 - 🌍 Passionate about creating web applications and exploring new technologies.
 - 📚 Learning and growing every day in the world of programming.
