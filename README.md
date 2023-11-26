@@ -24,6 +24,7 @@
    <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
    <img align="center" alt="php" height="43" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
    <img align="center" alt="lua" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
 
