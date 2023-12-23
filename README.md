@@ -14,9 +14,10 @@
 <br />
 <br />
 <div align="center">
-   <a href="https://github.com/Davipps">
+   <a href="https://github.com/DavizDev7">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavizDev7&show_icons=true&theme=radical"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavizDev7&layout=compact&theme=radical"/>
+      <img src="https://github-readme-stats-blond-alpha.vercel.app/api/top-langs/?username=DavizDev7&langs_count=15&&card_width=470px&theme=dracula" alt="" />
       <img src="https://raw.githubusercontent.com/vinicgobbi/vinicgobbi/output/github-snake-dark.svg" alt="snake" />
    </a>
 </div>
