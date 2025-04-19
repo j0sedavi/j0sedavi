@@ -5,8 +5,8 @@
 <br />
 
 ## About me
-- 👦 I am 15 years old.
-- 💻 Full-Stack Web Developer.
+- 👦 I am 16 years old.
+- 💻 Web Developer.
 - 🌍 Passionate about creating web applications and exploring new technologies.
 - 📚 Learning and growing every day in the world of programming.
 
@@ -38,6 +38,11 @@
    <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
    <img align="center" alt="atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg">
    <img align="center" alt="django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
+   <img align="center" alt="django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+   <img align="center" alt="django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+   <img align="center" alt="django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+   <img align="center" alt="django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 <br />
 
